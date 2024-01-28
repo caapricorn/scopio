@@ -155,6 +155,7 @@ a {
   --bs-btn-disabled-border-color: var(--bs-primary);
   --bs-gradient: none;
 }
+
 .pagination {
   --bs-pagination-active-bg: var(--bs-black);
   --bs-pagination-border-width: 0;
